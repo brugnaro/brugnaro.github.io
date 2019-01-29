@@ -397,6 +397,7 @@ img:hover {
     -ms-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
+    font-size: 12px
 }
 
 .navbar-inverse .navbar-nav>li:first-child a {
